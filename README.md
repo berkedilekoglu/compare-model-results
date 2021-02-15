@@ -1,7 +1,7 @@
 # comparison
 
 comparison is a Python library to visualize results of different models.
-![Alt text](https://github.com/berkedilekoglu/compare-model-results/blob/main/plot.png "Optional Title")
+![Alt text](https://github.com/berkedilekoglu/compare-model-results/blob/main/plot.jpeg "Optional Title")
 
 
 ## Installation
