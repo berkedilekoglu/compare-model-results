@@ -13,7 +13,7 @@ comparison is a Python library to visualize results of different models.
 > You can get detailed comparison for up to 3 models
 
 ### Example of Comparison Plot
-Example
+Example: Golds are 1s and Blacks are 0s
 <kbd>
 ![Alt text](https://github.com/berkedilekoglu/compare-model-results/blob/main/example-images/plot_example.png)
 </kbd>
