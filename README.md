@@ -9,6 +9,7 @@ comparison is a Python library to visualize results of different models.
 > You can get detailed comparison for up to 3 models
 
 ### Example of Comparison Plot
+Example
 <kbd>
 ![Alt text](https://github.com/berkedilekoglu/compare-model-results/blob/main/plot_example.png)
 </kbd>
