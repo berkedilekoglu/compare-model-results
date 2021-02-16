@@ -17,7 +17,7 @@ Example
 ### Example of Detailed Comparison for 3 Models
 Example
 <kbd>
-![Alt text](https://github.com/berkedilekoglu/compare-model-results/blob/main/example-images/report_example.png)
+![Alt text](https://github.com/berkedilekoglu/compare-model-results/blob/main/example-images/example_report.png)
 </kbd>
 
 ## Installation
