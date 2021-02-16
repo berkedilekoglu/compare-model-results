@@ -2,7 +2,12 @@
 
 comparison is a Python library to visualize results of different models.
 
-comparison just supports binary classification.
+> comparison just supports binary classification.
+
+> To get visually qualified results, plot at most 7 models
+
+> You can get detailed comparison for up to 3 models
+
 <kbd>
 ![Alt text](https://github.com/berkedilekoglu/compare-model-results/blob/main/plot_example.png)
 </kbd>
@@ -39,6 +44,11 @@ To plot setted models:
 ```python
 comparison_device.plot_predictions()
 ```
+To take detailed report:
+```python
+comparison_device.plot_predictions()
+```
+
 Deletion:
 ```python
 comparison_device.clear_all() #Clear all models with gold ones
