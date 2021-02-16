@@ -3,9 +3,8 @@
 comparison is a Python library to visualize results of different models.
 
 comparison just supports binary classification.
-
 <kbd>
-![Alt text](https://github.com/berkedilekoglu/compare-model-results/blob/main/plot_example.png "Example: Comparison of Different Results")
+![Alt text](https://github.com/berkedilekoglu/compare-model-results/blob/main/plot_example.png)
 </kbd>
 
 ## Installation
