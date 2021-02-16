@@ -4,6 +4,8 @@ comparison is a Python library to visualize results of different models.
 
 > comparison was written by using numpy and matplotlib (Necessary Libs: numpy and matplotlib)
 
+> comparison just requires predicted probs or labels!
+
 > comparison just supports binary classification.
 
 > To get visually qualified results, plot at most 7 models
