@@ -11,7 +11,13 @@ comparison is a Python library to visualize results of different models.
 ### Example of Comparison Plot
 Example
 <kbd>
-![Alt text](https://github.com/berkedilekoglu/compare-model-results/blob/main/plot_example.png)
+![Alt text](https://github.com/berkedilekoglu/compare-model-results/blob/main/example-images/plot_example.png)
+</kbd>
+
+### Example of Detailed Comparison for 3 Models
+Example
+<kbd>
+![Alt text](https://github.com/berkedilekoglu/compare-model-results/blob/main/example-images/report_example.png)
 </kbd>
 
 ## Installation
@@ -48,7 +54,9 @@ comparison_device.plot_predictions()
 ```
 To take detailed report:
 ```python
-comparison_device.plot_predictions()
+comparison_device.compare_predictions(modelName1="XGBoostModel",modelName2="LRModel",modelName3="LRModel2") #To get comparison report of 3 models
+# You can use that function for 2 models: comparison_device.compare_predictions(modelName1="XGBoostModel",modelName2="LRModel")
+# or just 1 model: comparison_device.compare_predictions(modelName1="XGBoostModel")
 ```
 
 Deletion:
